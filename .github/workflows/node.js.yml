@@ -43,6 +43,4 @@ jobs:
         npm test
       env:
         CI: true
-      env:
-        CI: true
 
